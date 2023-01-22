@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/temperature_converter/static/js/main.fbe290e2.js",
+    "index.html": "/temperature_converter/index.html",
+    "main.fbe290e2.js.map": "/temperature_converter/static/js/main.fbe290e2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fbe290e2.js"
+  ]
+}
